@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* @apply bg-violet-600 px-4 h-10 rounded text-violet-100; */
+  @apply bg-[#09090A] text-zinc-100;
+}
