@@ -16,7 +16,8 @@ export class SubmitFeedbackUseCase {
   async execute(request: SubmitFeedbackUseCaseRequest) {
     const { type, comment, screenshot } = request;
 
-    if (!type) {
+    
+     if (!type) {
       throw new Error('Type is required.');
     }
 
