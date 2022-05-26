@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1652546911360" clover="3.2.0">
-  <project timestamp="1652546911361" name="All files">
-    <metrics statements="47" coveredstatements="47" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2" elements="56" coveredelements="56" complexity="0" loc="47" ncloc="47" packages="1" files="1" classes="1"/>
+<coverage generated="1652893030195" clover="3.2.0">
+  <project timestamp="1652893030195" name="All files">
+    <metrics statements="48" coveredstatements="48" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2" elements="57" coveredelements="57" complexity="0" loc="48" ncloc="48" packages="1" files="1" classes="1"/>
     <file name="submit-feedback-use-case.ts" path="F:\projetoNODE\nlwreturn\web\server\src\use-cases\submit-feedback-use-case.ts">
-      <metrics statements="47" coveredstatements="47" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2"/>
+      <metrics statements="48" coveredstatements="48" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
@@ -22,16 +22,16 @@
       <line num="16" count="1" type="cond" truecount="1" falsecount="0"/>
       <line num="17" count="4" type="stmt"/>
       <line num="18" count="4" type="stmt"/>
-      <line num="19" count="4" type="cond" truecount="1" falsecount="0"/>
-      <line num="20" count="1" type="stmt"/>
+      <line num="19" count="4" type="stmt"/>
+      <line num="20" count="4" type="cond" truecount="1" falsecount="0"/>
       <line num="21" count="1" type="stmt"/>
-      <line num="22" count="3" type="cond" truecount="1" falsecount="0"/>
-      <line num="23" count="4" type="cond" truecount="1" falsecount="0"/>
-      <line num="24" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="3" type="cond" truecount="1" falsecount="0"/>
+      <line num="24" count="4" type="cond" truecount="1" falsecount="0"/>
       <line num="25" count="1" type="stmt"/>
-      <line num="26" count="2" type="cond" truecount="1" falsecount="0"/>
-      <line num="27" count="4" type="cond" truecount="1" falsecount="0"/>
-      <line num="28" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="27" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="28" count="4" type="cond" truecount="1" falsecount="0"/>
       <line num="29" count="1" type="stmt"/>
       <line num="30" count="1" type="stmt"/>
       <line num="31" count="1" type="stmt"/>
@@ -51,6 +51,7 @@
       <line num="45" count="1" type="stmt"/>
       <line num="46" count="1" type="stmt"/>
       <line num="47" count="1" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
